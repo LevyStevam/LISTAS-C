@@ -3,7 +3,7 @@
 int main()
 {
     float nums[15];
-    float maior = 0, menor = 0, x;
+    float maior = 0, menor = 0;
     for(int I=0;I<15;I++){
         puts("digite um número: ");
         scanf("%f", &nums[I]);
